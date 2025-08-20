@@ -1,0 +1,8 @@
+<taglib>
+ <tlib-version>3.0</tlib-version>
+ <jsp-version>3.0</jsp-version>
+<tag>
+<name>outag</name>
+<tag-class>outtagpackage.outTag</tag-class>
+</tag>
+</taglib>

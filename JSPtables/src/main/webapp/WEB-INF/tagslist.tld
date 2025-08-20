@@ -1,0 +1,20 @@
+<taglib>
+ <tlib-version>3.0</tlib-version>
+ <jsp-version>3.0</jsp-version>
+<tag>
+<name>Jsptable</name>
+<tag-class>com.table.JspTable</tag-class>
+<attribute>
+<name>number</name>
+<required>true</required>
+</attribute>
+<attribute>
+<name>start</name>
+<required>true</required>
+</attribute>
+<attribute>
+<name>end</name>
+<required>true</required>
+</attribute>
+</tag>
+</taglib>
